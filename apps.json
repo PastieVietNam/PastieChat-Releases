@@ -5,6 +5,99 @@
   "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
   "website": "https://pastiechat.com",
   "tintColor": "#3B82F6",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Pastie Chat Admin",
+      "bundleIdentifier": "com.pastiechat.superadmin",
+      "developerName": "Pastie",
+      "localizedDescription": "Bảng điều khiển Superadmin của Pastie Chat.",
+      "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
+      "tintColor": "#3B82F6",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T10:47:04+00:00",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin-1.0.0-1/PastieAdmin-Production.ipa",
+          "size": 12943369,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin-1.0.0-1/PastieAdmin-Production.ipa",
+      "size": 12943369,
+      "versionDate": "2026-11-14T10:47:04+00:00"
+    },
+    {
+      "name": "Pastie Admin Test",
+      "bundleIdentifier": "com.pastiechat.superadmin.staging",
+      "developerName": "Pastie",
+      "localizedDescription": "Bảng điều khiển Superadmin của Pastie Chat. Bản thử nghiệm (apitest).",
+      "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
+      "tintColor": "#3B82F6",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T10:47:09+00:00",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin.staging-1.0.0-1/PastieAdmin-Staging.ipa",
+          "size": 12943381,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin.staging-1.0.0-1/PastieAdmin-Staging.ipa",
+      "size": 12943381,
+      "versionDate": "2026-11-14T10:47:09+00:00"
+    },
+    {
+      "name": "Pastie Chat Staff",
+      "bundleIdentifier": "com.pastiechat.staff",
+      "developerName": "Pastie",
+      "localizedDescription": "Ứng dụng cho Agent và Sale của Pastie Chat.",
+      "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
+      "tintColor": "#3B82F6",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T10:47:14+00:00",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff-1.0.0-1/PastieStaff-Production.ipa",
+          "size": 10280967,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff-1.0.0-1/PastieStaff-Production.ipa",
+      "size": 10280967,
+      "versionDate": "2026-11-14T10:47:14+00:00"
+    },
+    {
+      "name": "Pastie Staff Test",
+      "bundleIdentifier": "com.pastiechat.staff.staging",
+      "developerName": "Pastie",
+      "localizedDescription": "Ứng dụng cho Agent và Sale của Pastie Chat. Bản thử nghiệm (apitest).",
+      "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
+      "tintColor": "#3B82F6",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T10:47:19+00:00",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff.staging-1.0.0-1/PastieStaff-Staging.ipa",
+          "size": 10280979,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff.staging-1.0.0-1/PastieStaff-Staging.ipa",
+      "size": 10280979,
+      "versionDate": "2026-11-14T10:47:19+00:00"
+    }
+  ],
   "news": []
 }
