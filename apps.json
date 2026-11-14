@@ -1,0 +1,10 @@
+{
+  "name": "Pastie Chat",
+  "identifier": "com.pastiechat.source",
+  "subtitle": "Ứng dụng nội bộ Pastie Chat",
+  "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
+  "website": "https://pastiechat.com",
+  "tintColor": "#3B82F6",
+  "apps": [],
+  "news": []
+}
