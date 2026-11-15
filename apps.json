@@ -15,6 +15,15 @@
       "tintColor": "#3B82F6",
       "versions": [
         {
+          "version": "1.261116.0202",
+          "buildVersion": "2611160202",
+          "date": "2026-11-15T19:04:42+00:00",
+          "localizedDescription": "Build 2611160202",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin-1.261116.0202-2611160202/PastieAdmin-Production.ipa",
+          "size": 12965442,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.261116.0151",
           "buildVersion": "2611160151",
           "date": "2026-11-15T18:54:23+00:00",
@@ -51,10 +60,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.261116.0151",
-      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin-1.261116.0151-2611160151/PastieAdmin-Production.ipa",
-      "size": 12951522,
-      "versionDate": "2026-11-15T18:54:23+00:00"
+      "version": "1.261116.0202",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin-1.261116.0202-2611160202/PastieAdmin-Production.ipa",
+      "size": 12965442,
+      "versionDate": "2026-11-15T19:04:42+00:00"
     },
     {
       "name": "Pastie Admin Test",
@@ -64,6 +73,15 @@
       "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
       "tintColor": "#3B82F6",
       "versions": [
+        {
+          "version": "1.261116.0203",
+          "buildVersion": "2611160203",
+          "date": "2026-11-15T19:04:51+00:00",
+          "localizedDescription": "Build 2611160203",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin.staging-1.261116.0203-2611160203/PastieAdmin-Staging.ipa",
+          "size": 12965454,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.261116.0152",
           "buildVersion": "2611160152",
@@ -101,10 +119,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.261116.0152",
-      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin.staging-1.261116.0152-2611160152/PastieAdmin-Staging.ipa",
-      "size": 12951534,
-      "versionDate": "2026-11-15T18:54:33+00:00"
+      "version": "1.261116.0203",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.superadmin.staging-1.261116.0203-2611160203/PastieAdmin-Staging.ipa",
+      "size": 12965454,
+      "versionDate": "2026-11-15T19:04:51+00:00"
     },
     {
       "name": "Pastie Chat Staff",
@@ -114,6 +132,15 @@
       "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
       "tintColor": "#3B82F6",
       "versions": [
+        {
+          "version": "1.261116.0203",
+          "buildVersion": "2611160203",
+          "date": "2026-11-15T19:04:59+00:00",
+          "localizedDescription": "Build 2611160203",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff-1.261116.0203-2611160203/PastieStaff-Production.ipa",
+          "size": 10331896,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.261116.0152",
           "buildVersion": "2611160152",
@@ -151,10 +178,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.261116.0152",
-      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff-1.261116.0152-2611160152/PastieStaff-Production.ipa",
-      "size": 10315960,
-      "versionDate": "2026-11-15T18:54:41+00:00"
+      "version": "1.261116.0203",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff-1.261116.0203-2611160203/PastieStaff-Production.ipa",
+      "size": 10331896,
+      "versionDate": "2026-11-15T19:04:59+00:00"
     },
     {
       "name": "Pastie Staff Test",
@@ -164,6 +191,15 @@
       "iconURL": "https://raw.githubusercontent.com/PastieVietNam/PastieChat-Releases/main/icon.png",
       "tintColor": "#3B82F6",
       "versions": [
+        {
+          "version": "1.261116.0204",
+          "buildVersion": "2611160204",
+          "date": "2026-11-15T19:05:07+00:00",
+          "localizedDescription": "Build 2611160204",
+          "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff.staging-1.261116.0204-2611160204/PastieStaff-Staging.ipa",
+          "size": 10331908,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.261116.0153",
           "buildVersion": "2611160153",
@@ -201,10 +237,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.261116.0153",
-      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff.staging-1.261116.0153-2611160153/PastieStaff-Staging.ipa",
-      "size": 10315972,
-      "versionDate": "2026-11-15T18:54:50+00:00"
+      "version": "1.261116.0204",
+      "downloadURL": "https://github.com/PastieVietNam/PastieChat-Releases/releases/download/com.pastiechat.staff.staging-1.261116.0204-2611160204/PastieStaff-Staging.ipa",
+      "size": 10331908,
+      "versionDate": "2026-11-15T19:05:07+00:00"
     }
   ],
   "news": []
